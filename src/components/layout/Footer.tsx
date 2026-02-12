@@ -9,7 +9,7 @@ export function Footer() {
           <div className="mb-6 md:mb-0">
             <Link to="/" className="flex items-center">
               <img 
-                src="https://res.cloudinary.com/dfeqzodi3/image/upload/v1748384859/Norma-Deck-Logotipo-Header.svg" 
+                src="https://ik.imagekit.io/8gvnjnrjr/normadeck/Norma-Deck-Logotipo-Header.svg" 
                 alt="NormaDeck" 
                 className="h-8"
               />
