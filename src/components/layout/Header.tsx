@@ -41,7 +41,7 @@ export function Header() {
             className="flex items-center text-lg font-bold text-gray-900 dark:text-white"
           >
             <img 
-              src="https://res.cloudinary.com/dfeqzodi3/image/upload/v1748384859/Norma-Deck-Logotipo-Header.svg" 
+              src="https://ik.imagekit.io/8gvnjnrjr/normadeck/Norma-Deck-Logotipo-Header.svg" 
               alt="NormaDeck" 
               className="h-8"
             />
@@ -129,7 +129,7 @@ export function Header() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 <img 
-                  src="https://res.cloudinary.com/dfeqzodi3/image/upload/v1748384859/Norma-Deck-Logotipo-Header.svg" 
+                  src="https://ik.imagekit.io/8gvnjnrjr/normadeck/Norma-Deck-Logotipo-Header.svg" 
                   alt="NormaDeck" 
                   className="h-8"
                 />
