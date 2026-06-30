@@ -15,7 +15,7 @@ export function Hero({
   subtitle, 
   ctaLabel, 
   ctaLink, 
-  image = 'https://ik.imagekit.io/8gvnjnrjr/normadeck/NormaDeck-Hero_z395ah.webp'
+  image = 'https://ik.imagekit.io/7m2kofgo2/normadeck/NormaDeck-Hero_z395ah.webp?updatedAt=1771152483925'
 }: HeroProps) {
   return (
     <section className="relative overflow-hidden">
